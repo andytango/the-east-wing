@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "the-east-wing",
+  "description": "A personal Claude Code marketplace of satirical and parody output-style plugins.",
+  "owner": {
+    "name": "Andrew Hall"
+  },
+  "plugins": [
+    {
+      "name": "trump-tweets-output-style",
+      "description": "Adds satirical, hyperbolic 'tweet' commentary alongside Claude's normal coding work, signed off with THANK YOU FOR YOUR ATTENTION TO THIS MATTER. Parody / personal-amusement use only.",
+      "author": {
+        "name": "Andrew Hall"
+      },
+      "category": "fun",
+      "source": "./plugins/trump-tweets"
+    }
+  ]
+}
