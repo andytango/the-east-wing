@@ -1,17 +1,13 @@
-# the-east-wing
+# 🇺🇸 The East Wing
 
-A personal Claude Code marketplace of satirical / parody output-style plugins.
-
-> **Heads up:** this is a humour project. The plugins generate parody content
-> that imitates the *style* of well-known public-figure tweets. They are for
-> personal amusement only and are not affiliated with, endorsed by, or
+> **Heads up:** this is a humour project. This plugin generates parody content
+> that imitates the *style* of a well-known public-figure's social media posts. They
+> are for personal amusement only and are not affiliated with, endorsed by, or
 > representative of any real person, party, or organisation.
 
-## Plugins
+## The plugin
 
-| Plugin | What it does |
-| --- | --- |
-| `trump-tweets-output-style` | Adds hyperbolic, self-aggrandising "tweet" commentary alongside Claude's normal coding work. Every tweet ends with `THANK YOU FOR YOUR ATTENTION TO THIS MATTER!` |
+`trump-tweets-output-style` Adds hyperbolic, self-aggrandising "tweet" commentary alongside Claude's normal coding work. Every tweet ends with `THANK YOU FOR YOUR ATTENTION TO THIS MATTER!` 
 
 ## Install
 
