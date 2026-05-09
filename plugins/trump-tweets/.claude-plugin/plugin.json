@@ -1,6 +1,6 @@
 {
     "name": "trump-tweets-output-style",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Adds satirical Trump-style post commentary alongside Claude's normal coding work. Parody / personal-amusement use only.",
     "author": {
         "name": "Andrew Hall"
