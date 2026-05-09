@@ -5,9 +5,11 @@
 > are for personal amusement only and are not affiliated with, endorsed by, or
 > representative of any real person, party, or organisation.
 
-## The plugin
+## Plugins
 
-`trump-tweets-output-style` Adds hyperbolic, self-aggrandising "tweet" commentary alongside Claude's normal coding work. Every tweet ends with `THANK YOU FOR YOUR ATTENTION TO THIS MATTER!` 
+| Plugin | What it does |
+| --- | --- |
+| `trump-tweets-output-style` | Adds hyperbolic, self-aggrandising "Truth / X" post commentary alongside Claude's normal coding work. Every post ends with `MAKE CODING GREAT AGAIN!` |
 
 ## Install
 
