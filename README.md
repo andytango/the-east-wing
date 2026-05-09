@@ -9,7 +9,7 @@
 
 | Plugin | What it does |
 | --- | --- |
-| `trump-tweets-output-style` | Adds hyperbolic, self-aggrandising "Truth / X" post commentary alongside Claude's normal coding work. Every post ends with `MAKE CODING GREAT AGAIN!` |
+| `trump-tweets-output-style` | Adds hyperbolic, self-aggrandising "Post" commentary alongside Claude's normal coding work. Every post ends with `MAKE CODING GREAT AGAIN!` |
 
 ## Install
 
