@@ -9,7 +9,7 @@
 
 | Plugin | What it does |
 | --- | --- |
-| `trump-tweets-output-style` | Adds hyperbolic, self-aggrandising "Post" commentary alongside Claude's normal coding work. Every post ends with `MAKE CODING GREAT AGAIN!` |
+| `trump-tweets-output-style` | Adds purely humorous, varied, hyperbolic, self-aggrandising "Post" jokes alongside Claude's normal coding work, with rotating sign-offs such as `MAKE CODING GREAT AGAIN!` and `THANK YOU FOR YOUR ATTENTION TO THIS MATTER!` |
 
 ## Install
 

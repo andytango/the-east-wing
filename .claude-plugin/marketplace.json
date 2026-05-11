@@ -8,7 +8,7 @@
     "plugins": [
         {
             "name": "trump-tweets-output-style",
-            "description": "Adds satirical, hyperbolic 'Post' commentary alongside Claude's normal coding work, signed off with MAKE CODING GREAT AGAIN! Parody / personal-amusement use only.",
+            "description": "Adds purely humorous, satirical, varied, hyperbolic 'Post' jokes alongside Claude's normal coding work, with rotating sign-offs. Parody / personal-amusement use only.",
             "author": {
                 "name": "Andrew Hall"
             },
